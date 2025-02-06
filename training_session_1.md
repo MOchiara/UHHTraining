@@ -7,8 +7,8 @@ Date: 23/01/2025
 
 ## Participations: 
 - [Katja Schultz](https://github.com/katjaschultz)
--[Joel Bracamontes Ramírez](https://github.com/joelbracamontes)
--[Emelie Breunig](https://github.com/EmelieOcean)
+- [Joel Bracamontes Ramírez](https://github.com/joelbracamontes)
+- [Emelie Breunig](https://github.com/EmelieOcean)
 
 ## Agenda:
 1. Intro to Git and Github
