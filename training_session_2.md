@@ -6,7 +6,7 @@ Date: 06/02/2025
 [Chiara Monforte](https://github.com/MOchiara)
 
 ## Participations: 
--
+- Friederike
 
 ## Agenda:
 1. Intro to Git and Github
