@@ -8,6 +8,7 @@ Date: 06/02/2025
 ## Participations: 
 - [Friederike Pollmann](https://github.com/FriederikePollmann/)
 
+
 ## Agenda:
 1. Intro to Git and Github
 2. Branches, commits and pull requests
