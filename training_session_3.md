@@ -6,7 +6,8 @@ Date:
 [Chiara Monforte](https://github.com/MOchiara)
 
 ## Participations: 
-Susie
+[Susie Brunier](https://github.com/susiebrn)
+
 
 ## Agenda:
 1. Intro to Git and Github
