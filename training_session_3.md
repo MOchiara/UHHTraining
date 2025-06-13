@@ -6,7 +6,6 @@ Date:
 [Chiara Monforte](https://github.com/MOchiara)
 
 ## Participations: 
-
 Susie
 
 ## Agenda:
