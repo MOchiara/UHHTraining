@@ -7,7 +7,7 @@ Date:
 
 ## Participations: 
 
-
+Susie
 
 ## Agenda:
 1. Intro to Git and Github
